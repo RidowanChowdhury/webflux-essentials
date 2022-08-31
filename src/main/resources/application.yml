@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    url: r2dbc:posgresql://127.0.0.1:5432/posgresql?schema=public
+    username: root
+    password: root
